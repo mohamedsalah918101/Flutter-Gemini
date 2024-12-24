@@ -1,4 +1,4 @@
-# chatgpt
+# Flutter Gemini
 
 A new Flutter project.
 
