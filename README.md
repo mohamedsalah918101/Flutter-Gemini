@@ -1,16 +1,29 @@
 # Flutter Gemini
 
-A new Flutter project.
+Flutter Gemini is a feature-rich Flutter application designed to provide a seamless experience for AI-powered chat solutions. The app integrates modern design, responsive UI, and cutting-edge technologies like ChatGPT APIs.
+
+## Features
+
+- **AI-Powered Chat**: Engage in intelligent conversations powered by OpenAI's ChatGPT SDK.
+- **Image Picker**: Select and upload images directly within the app.
+- **Custom Themes**: Switch between light and dark modes for a tailored user experience.
+- **Responsive Design**: Fully optimized for different screen sizes.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these steps to set up and run the app locally:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart SDK
+- Code editor (Android Studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mohamedsalah918101/flutter-gemini.git
+   cd flutter-gemini
+
